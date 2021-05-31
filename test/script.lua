@@ -1,4 +1,4 @@
-require("Lua_GPIO_RPI_Win")
+require("LuaGpioWin")
 
 gpio5 = 5
 
