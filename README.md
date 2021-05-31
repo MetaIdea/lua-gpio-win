@@ -8,10 +8,10 @@ Load this module via require("LuaGpioWin")
 
 Currently this libary provides the following functions:
 
-info()
-PinOn(pinNumber)
-PinOff(pinNumber)
-PinToggle(pinNumber)
-PinRead(pinNumber)
+info(),
+PinOn(pinNumber),
+PinOff(pinNumber),
+PinToggle(pinNumber),
+PinRead(pinNumber),
 
 A test kit (test folder) is also available (use via start.bat). Edit the script.lua to fit your needs.
